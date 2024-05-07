@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... You
 - 🌱 I’m currently learning ... Hidden features for every app possible
 - 💞️ I’m looking to collaborate on ... Anything 
-- 📫 How to reach me ... Rapiii2189@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 Rayray2189/Rayray2189 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
